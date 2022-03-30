@@ -1,0 +1,19 @@
+{
+  "name": "p1sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiPunta/p1sass.git"
+  },
+  "author": "javids",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javiPunta/p1sass/issues"
+  },
+  "homepage": "https://github.com/javiPunta/p1sass#readme"
+}
