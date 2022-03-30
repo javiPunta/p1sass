@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  background-color: rgba(0, 225, 255, 0.925);
+}
+
+main ul {
+  list-style-type: none;
+}
+
+main ul li:nth-child(1) {
+  color: #ddff1a;
+}
+
+main ul li:nth-child(2) {
+  color: #e1ff33;
+}
+
+main ul li:nth-child(3) {
+  color: #e4ff4d;
+}
+
+main ul li:nth-child(4) {
+  color: #e8ff66;
+}
+
+main ul li:nth-child(5) {
+  color: #ecff80;
+}
+
+main ul li:nth-child(6) {
+  color: #f0ff99;
+}
+
+main ul li:nth-child(7) {
+  color: #f4ffb3;
+}
+
+main ul li:nth-child(8) {
+  color: #f7ffcc;
+}
+
+main ul li:nth-child(9) {
+  color: #fbffe6;
+}
+
+main ul li:nth-child(10) {
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */
